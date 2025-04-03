@@ -6,7 +6,8 @@
     "dev": "next dev -H 10.76.139.146 -p 3000",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "type": "commonjs"
   },
   "dependencies": {
     "@headlessui/react": "^2.1.10",
